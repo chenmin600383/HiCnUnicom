@@ -3,7 +3,7 @@ name: 联通掌厅签到
 on:
   workflow_dispatch:
   schedule:
-    - cron: 30 17 * *  ?
+    - cron: 43 7 * *  ?
     
 jobs:
   run-it:
