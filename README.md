@@ -20,7 +20,7 @@
 
 
 ### 3. 添加secret
-进入仓库后点击 `Settings`  
+进入仓库后点击 `Settings`     
 侧栏点击 `Secrets`  
 点击 `New secret`  
 
